@@ -1,6 +1,6 @@
 # 💼 Personal Portfolio Website
 
-A modern, responsive personal portfolio website built with **React** to showcase my skills, projects, and contact information. This portfolio highlights my journey as a Computer Science undergraduate and Frontend Developer.
+A modern, responsive personal portfolio website built with **React** to showcase my skills, projects, and contact information. This portfolio highlights my journey as a **B.Tech Information Technology student** and aspiring **Data Scientist / Data Analyst**.
 
 ## 🚀 Live Demo
 
@@ -10,33 +10,33 @@ A modern, responsive personal portfolio website built with **React** to showcase
 
 ## ✨ Features
 
-- Modern and responsive design
-- Fixed sidebar navigation
-- Mobile-friendly hamburger menu
-- Hero section with introduction
-- About section
-- Skills section
-- Projects showcase
-- Contact section
-- Smooth scrolling navigation
-- Clean and reusable React components
+* Modern and responsive design
+* Fixed sidebar navigation
+* Mobile-friendly hamburger menu
+* Hero section with introduction
+* About section
+* Skills section
+* Projects showcase
+* Contact section
+* Smooth scrolling navigation
+* Clean and reusable React components
 
 ---
 
 ## 🛠️ Built With
 
-- React.js
-- Vite
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- React Icons
+* React.js
+* Vite
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* React Icons
 
 ---
 
 ## 📂 Project Structure
 
-```
+```text
 src/
 │── assets/
 │── components/
@@ -56,9 +56,9 @@ src/
 
 The portfolio is fully responsive and optimized for:
 
-- 💻 Desktop
-- 📱 Mobile
-- 📟 Tablet
+* 💻 Desktop
+* 📱 Mobile
+* 📟 Tablet
 
 ---
 
@@ -67,13 +67,13 @@ The portfolio is fully responsive and optimized for:
 Clone the repository
 
 ```bash
-git clone https://github.com/anjaliideshmukh/Portfolio.git
+git clone https://github.com/Giteshkumar23/gitesh-portfolio.git
 ```
 
 Navigate into the project
 
 ```bash
-cd Portfolio
+cd gitesh-portfolio
 ```
 
 Install dependencies
@@ -92,25 +92,25 @@ npm run dev
 
 ## 📬 Contact
 
-**Anjali Deshmukh**
+**Gitesh Kumar Patel**
 
-📧 Email: anjalideshmukh2275@gmail.com
+📧 Email: [giteshp321@gmail.com](mailto:giteshp321@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/anjaliideshmukh22
+💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username/
 
-🐙 GitHub: https://github.com/anjaliideshmukh 
- 
---- 
- 
-## ⭐ Future Improvements 
- 
-- Add project filtering 
-- Add animations using Framer Motion 
-- Dark/Light theme toggle 
-- Blog section 
-- Downloadable resume 
-- Backend contact form 
- 
---- 
- 
-If you found this project helpful, feel free to ⭐ the repository!   whats its complete output
+🐙 GitHub: https://github.com/Giteshkumar23
+
+---
+
+## ⭐ Future Improvements
+
+* Add project filtering
+* Add animations using Framer Motion
+* Dark/Light theme toggle
+* Blog section
+* Downloadable resume
+* Backend contact form
+
+---
+
+If you found this project helpful, feel free to ⭐ the repository!
