@@ -1,32 +1,25 @@
-# 💼 Gitesh Kumar Patel — Personal Portfolio
+# 💼 Personal Portfolio Website
 
-A modern, responsive personal portfolio website built with **React and Vite** to showcase my skills, projects, certifications, and journey as a **Data Scientist & AI Developer**.
+A modern, responsive personal portfolio website built with **React** to showcase my skills, projects, and contact information. This portfolio highlights my journey as a Computer Science undergraduate and Frontend Developer.
 
 ## 🚀 Live Demo
 
-🔗 Coming soon
-
-> The portfolio will be available here after deployment.
+🔗 https://react-portfolio-three-brown.vercel.app/
 
 ---
 
 ## ✨ Features
 
 - Modern and responsive design
-- Professional hero section
-- Profile photo and introduction
+- Fixed sidebar navigation
+- Mobile-friendly hamburger menu
+- Hero section with introduction
 - About section
-- Technical skills section
-- Data Science & AI focused projects showcase
-- Certifications section
-- Learning and development journey
-- Resume viewing and download
+- Skills section
+- Projects showcase
 - Contact section
-- GitHub and LinkedIn integration
 - Smooth scrolling navigation
-- Mobile-friendly navigation
 - Clean and reusable React components
-- Responsive design for desktop, tablet, and mobile
 
 ---
 
@@ -34,193 +27,90 @@ A modern, responsive personal portfolio website built with **React and Vite** to
 
 - React.js
 - Vite
-- JavaScript (ES6)
 - HTML5
 - CSS3
-
----
-
-## 🧠 Technical Skills
-
-### Programming Languages
-
-- Python
-- Java
-- SQL
-
-### AI & Data
-
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
-- Data Analysis
-- Machine Learning
-
-### Frameworks & Libraries
-
-- Flask
-- Streamlit
-- Pandas
-- Plotly
-
-### Databases
-
-- PostgreSQL
-- SQLite
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Docker
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI-Powered Manufacturing Agent
-
-An AI-powered manufacturing assistant built using Python, Flask, Groq, SQLAlchemy, and SQLite for intelligent manufacturing-related interactions.
-
-🔗 GitHub: https://github.com/Giteshkumar23/Manufacturing-Agent
-
----
-
-### 📚 Ask My Docs — RAG Application
-
-A document question-answering application using **Retrieval-Augmented Generation (RAG)** to answer questions from user-uploaded documents.
-
-**Technologies:**
-
-- Python
-- RAG
-- Vector Search
-- Docker
-
----
-
-### 📄 AI Resume Analyzer
-
-An AI-powered resume analysis application providing ATS-oriented scoring, keyword analysis, and AI-generated resume improvement feedback.
-
-**Technologies:**
-
-- Python
-- Flask
-- SQLite
-- Google Gemini
-
----
-
-### 🎯 Aim Trainer
-
-A Python-based interactive aim training application focused on target interaction, reaction speed, scoring, and gameplay.
-
-**Technology:**
-
-- Python
-
----
-
-### 🐍 Snake Game
-
-A Python-based Snake Game implementing player movement, collision detection, scoring, and game logic while applying programming and OOP concepts.
-
-**Technology:**
-
-- Python
-
----
-
-## 📜 Certifications
-
-- 🐍 **100 Days of Code: The Complete Python Pro Bootcamp** — Udemy
-- 🤖 **Artificial Intelligence & Machine Learning** — KodeZen Technologies
-- 🌐 **Web Development using HTML, JavaScript & CSS** — CSVTU — A+ Grade
-- 🤖 **Getting Started with Artificial Intelligence** — IBM SkillsBuild
-- 📄 **Create a Great Professional Resume** — IBM
-
----
-
-## 🎓 Education
-
-**Shri Shankaracharya Technical Campus, Bhilai**
-
-Bachelor of Technology — Information Technology
-
-**Expected Graduation:** 2027
-
-**CGPA:** 8.05 / 10
-
----
-
-## 🧭 Learning Journey
-
-My technical journey started around **September 2023** and has progressed through programming, web development, Python, AI/ML, Generative AI, RAG, and practical project development.
-
-### 2023
-- Started my technical journey
-- Programming and IT fundamentals
-
-### 2024
-- Python and programming practice
-- Data Structures & Algorithms
-- Academic development
-
-### 2025
-- Web Development
-- HTML
-- CSS
-- JavaScript
-- Practical development
-
-### 2026
-- Python specialization
-- Artificial Intelligence & Machine Learning
-- Generative AI
-- RAG applications
-- AI application development
-- Portfolio projects
-
-### 2027
-- Expected B.Tech graduation
+- JavaScript (ES6)
+- React Icons
 
 ---
 
 ## 📂 Project Structure
 
-```text
-gitesh-portfolio/
-│
-├── public/
-│   ├── images/
-│   │   └── gitesh-profile.jpg
-│   └── Gitesh_Kumar_Patel_Resume.pdf
-│
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── About.jsx
-│   │   ├── Certifications.jsx
-│   │   ├── Contact.jsx
-│   │   ├── Footer.jsx
-│   │   ├── Hero.jsx
-│   │   ├── Journey.jsx
-│   │   ├── Navbar.jsx
-│   │   ├── Projects.jsx
-│   │   ├── Resume.jsx
-│   │   └── Skills.jsx
-│   │
-│   ├── data/
-│   │   └── portfolio.js
-│   │
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   └── main.jsx
-│
-├── index.html
-├── package.json
-├── vite.config.js
-└── vercel.json
+```
+src/
+│── assets/
+│── components/
+│   ├── Sidebar/
+│   ├── Hero/
+│   ├── About/
+│   ├── Skills/
+│   ├── Projects/
+│   └── Contact/
+│── App.jsx
+│── main.jsx
+```
+
+---
+
+## 📱 Responsive Design
+
+The portfolio is fully responsive and optimized for:
+
+- 💻 Desktop
+- 📱 Mobile
+- 📟 Tablet
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/anjaliideshmukh/Portfolio.git
+```
+
+Navigate into the project
+
+```bash
+cd Portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📬 Contact
+
+**Anjali Deshmukh**
+
+📧 Email: anjalideshmukh2275@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/anjaliideshmukh22
+
+🐙 GitHub: https://github.com/anjaliideshmukh 
+ 
+--- 
+ 
+## ⭐ Future Improvements 
+ 
+- Add project filtering 
+- Add animations using Framer Motion 
+- Dark/Light theme toggle 
+- Blog section 
+- Downloadable resume 
+- Backend contact form 
+ 
+--- 
+ 
+If you found this project helpful, feel free to ⭐ the repository!   whats its complete output
