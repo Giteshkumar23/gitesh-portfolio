@@ -1,95 +1,179 @@
-# Gitesh Kumar Patel — Portfolio
+# Gitesh Kumar Patel
 
-Premium personal portfolio for Gitesh Kumar Patel, Data & AI Developer.
+### Data Scientist & AI Developer
 
-## Tech Stack
+<p align="center">
+  <a href="https://github.com/Giteshkumar23">
+    <img src="https://img.shields.io/badge/GitHub-Giteshkumar23-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/giteshkumar23/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gitesh%20Kumar%20Patel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:giteshp321@gmail.com">
+    <img src="https://img.shields.io/badge/Email-giteshp321%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- **React 19** + **Vite 8**
-- **Tailwind CSS v4**
-- **Framer Motion** — animations
-- **Lucide React** — icons
+<p align="center">
+  <i>Building data-driven solutions and intelligent AI applications.</i>
+</p>
 
-## Project Structure
+---
 
-```
-src/
-  components/
-    Navbar.jsx         # Sticky nav with blur, mobile menu
-    Hero.jsx           # Hero section with floating badges
-    About.jsx          # About + info cards
-    Skills.jsx         # Filterable skill groups
-    Projects.jsx       # Cards + project detail modal
-    Journey.jsx        # Timeline / education
-    Certifications.jsx # Cert cards (dynamic)
-    Resume.jsx         # Resume CTA
-    Contact.jsx        # Contact form + info
-    Footer.jsx         # Footer with back-to-top
+## About
 
-  data/
-    portfolio.js       # ← Edit ALL personal content here
+I am an **Information Technology undergraduate** and aspiring **Data Scientist & AI Developer** focused on building practical solutions with Python, SQL, Generative AI, and Retrieval-Augmented Generation.
 
-  assets/
-    images/            # Place profile photo here (see Hero.jsx)
+I enjoy transforming ideas into functional applications and continuously improving my skills in **Data Science, Artificial Intelligence, software development, and problem solving**.
 
-public/
-  resume/
-    Gitesh_Kumar_Patel_Resume.pdf   # ← Drop resume PDF here
-  favicon.svg
-```
+Currently pursuing:
 
-## Getting Started
+**B.Tech in Information Technology**  
+Shri Shankaracharya Technical Campus, Bhilai  
+Expected Graduation: **2027**  
+CGPA: **8.05 / 10**
 
-```bash
-npm install
-npm run dev
-```
+---
 
-## Updating Content
+## Technical Focus
 
-All personal information lives in `src/data/portfolio.js`.
-Edit that file to update name, bio, projects, skills, certs, links etc.
+| Area | Technologies |
+|------|--------------|
+| **Languages** | Python · Java · SQL |
+| **AI & Data** | Generative AI · RAG · Data Analysis · Machine Learning |
+| **Frameworks** | Flask · Streamlit |
+| **Libraries** | Pandas · Plotly |
+| **Databases** | PostgreSQL · SQLite |
+| **Tools** | Git · GitHub · VS Code · Postman · Docker |
+| **Core CS** | DSA · OOP · DBMS · Operating Systems |
 
-## Replacing Profile Photo
+---
 
-1. Add your photo to `src/assets/images/profile.jpg`
-2. In `src/components/Hero.jsx`, replace the placeholder avatar div with:
-   ```jsx
-   import profileImg from '../assets/images/profile.jpg';
-   // ...
-   <img src={profileImg} alt="Gitesh Kumar Patel" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '50%' }} />
-   ```
+# Featured Projects
 
-## Adding Resume
+## 01 · AI-Powered Manufacturing Agent
 
-Drop the PDF at: `public/resume/Gitesh_Kumar_Patel_Resume.pdf`
+An AI-powered manufacturing assistant designed for intelligent manufacturing-related interactions.
 
-## Adding Certifications
+**Built with**
 
-In `src/data/portfolio.js`, add items to the `certifications` array:
-```js
-{
-  title: "Certificate Title",
-  organization: "Issuing Organization",
-  date: "Month Year",
-  credentialUrl: "https://...",
-}
-```
+`Python` `Flask` `Groq` `SQLAlchemy` `SQLite`
 
-## Deploy to Vercel
+**Highlights**
 
-1. Push to GitHub
-2. Import project in [vercel.com](https://vercel.com)
-3. Framework: **Vite**
-4. Build command: `npm run build`
-5. Output directory: `dist`
+- AI-powered manufacturing assistant
+- Modular application architecture
+- Groq integration
+- SQLAlchemy database layer
+- Agents and services architecture
+- Web-based interface
 
-The `vercel.json` is already configured for SPA routing.
+**Repository:**  
+[View on GitHub →](https://github.com/Giteshkumar23/Manufacturing-Agent)
 
-## Update LinkedIn / Domain
+---
 
-After deployment, update `src/data/portfolio.js`:
-```js
-linkedin: "https://linkedin.com/in/YOUR-ACTUAL-URL",
-```
+## 02 · Ask My Docs — RAG Application
 
-And update `index.html` canonical + OG URLs to your deployed domain.
+A document question-answering application built around **Retrieval-Augmented Generation**, allowing users to ask questions about their uploaded documents.
+
+**Built with**
+
+`Python` `RAG` `Docker` `Vector Search`
+
+**Highlights**
+
+- Document upload
+- Document processing
+- Retrieval pipeline
+- Context-aware responses
+- Vector search
+- Docker-based deployment
+
+**Repository:**  
+Coming soon
+
+---
+
+## 03 · AI Resume Analyzer
+
+An AI-powered resume analysis application that provides ATS-oriented scoring, keyword analysis, and AI-generated improvement feedback.
+
+**Built with**
+
+`Python` `Flask` `SQLite` `Google Gemini`
+
+**Highlights**
+
+- Resume upload
+- ATS-oriented scoring
+- Keyword analysis
+- AI-generated feedback
+- Resume improvement suggestions
+- Flask backend
+
+**Repository:**  
+Coming soon
+
+---
+
+## 04 · Aim Trainer
+
+A Python-based interactive aim training application focused on target interaction, reaction speed, scoring, and gameplay.
+
+**Built with**
+
+`Python`
+
+**Repository:**  
+Coming soon
+
+---
+
+## 05 · Snake Game
+
+A Python-based Snake Game implementing movement, collision detection, scoring, and game logic while applying programming and OOP concepts.
+
+**Built with**
+
+`Python`
+
+**Repository:**  
+Coming soon
+
+---
+
+# Learning & Development Journey
+
+My technical journey began around **September 2023**, progressing from programming fundamentals to AI application development.
+
+```text
+September 2023
+      │
+      ▼
+Programming & IT Fundamentals
+      │
+      ▼
+Python & Problem Solving
+      │
+      ▼
+Data Structures & Algorithms
+      │
+      ▼
+Web Development
+HTML · CSS · JavaScript
+      │
+      ▼
+Python Development
+      │
+      ▼
+AI & Machine Learning
+      │
+      ▼
+Generative AI & RAG
+      │
+      ▼
+AI Application Development
+      │
+      ▼
+Data Scientist & AI Developer
