@@ -3,7 +3,7 @@
 A modern, responsive personal portfolio website built with **React** to showcase my skills, projects, and contact information. This portfolio highlights my journey as a **B.Tech Information Technology student** and aspiring **Data Scientist / Data Analyst**.
 
 ## 🚀 Live Demo
-
+coming soon!
 
 
 ---
@@ -96,8 +96,7 @@ npm run dev
 
 📧 Email: [giteshp321@gmail.com](mailto:giteshp321@gmail.com)
 
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username/
-
+💼 LinkedIn: https://www.linkedin.com/in/Giteshkumar23/
 🐙 GitHub: https://github.com/Giteshkumar23
 
 ---
