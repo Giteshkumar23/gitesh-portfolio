@@ -1,179 +1,226 @@
-# Gitesh Kumar Patel
+# 💼 Gitesh Kumar Patel — Personal Portfolio
 
-### Data Scientist & AI Developer
+A modern, responsive personal portfolio website built with **React and Vite** to showcase my skills, projects, certifications, and journey as a **Data Scientist & AI Developer**.
 
-<p align="center">
-  <a href="https://github.com/Giteshkumar23">
-    <img src="https://img.shields.io/badge/GitHub-Giteshkumar23-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/giteshkumar23/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gitesh%20Kumar%20Patel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:giteshp321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-giteshp321%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 🚀 Live Demo
 
-<p align="center">
-  <i>Building data-driven solutions and intelligent AI applications.</i>
-</p>
+🔗 Coming soon
+
+> The portfolio will be available here after deployment.
 
 ---
 
-## About
+## ✨ Features
 
-I am an **Information Technology undergraduate** and aspiring **Data Scientist & AI Developer** focused on building practical solutions with Python, SQL, Generative AI, and Retrieval-Augmented Generation.
-
-I enjoy transforming ideas into functional applications and continuously improving my skills in **Data Science, Artificial Intelligence, software development, and problem solving**.
-
-Currently pursuing:
-
-**B.Tech in Information Technology**  
-Shri Shankaracharya Technical Campus, Bhilai  
-Expected Graduation: **2027**  
-CGPA: **8.05 / 10**
-
----
-
-## Technical Focus
-
-| Area | Technologies |
-|------|--------------|
-| **Languages** | Python · Java · SQL |
-| **AI & Data** | Generative AI · RAG · Data Analysis · Machine Learning |
-| **Frameworks** | Flask · Streamlit |
-| **Libraries** | Pandas · Plotly |
-| **Databases** | PostgreSQL · SQLite |
-| **Tools** | Git · GitHub · VS Code · Postman · Docker |
-| **Core CS** | DSA · OOP · DBMS · Operating Systems |
+- Modern and responsive design
+- Professional hero section
+- Profile photo and introduction
+- About section
+- Technical skills section
+- Data Science & AI focused projects showcase
+- Certifications section
+- Learning and development journey
+- Resume viewing and download
+- Contact section
+- GitHub and LinkedIn integration
+- Smooth scrolling navigation
+- Mobile-friendly navigation
+- Clean and reusable React components
+- Responsive design for desktop, tablet, and mobile
 
 ---
 
-# Featured Projects
+## 🛠️ Built With
 
-## 01 · AI-Powered Manufacturing Agent
-
-An AI-powered manufacturing assistant designed for intelligent manufacturing-related interactions.
-
-**Built with**
-
-`Python` `Flask` `Groq` `SQLAlchemy` `SQLite`
-
-**Highlights**
-
-- AI-powered manufacturing assistant
-- Modular application architecture
-- Groq integration
-- SQLAlchemy database layer
-- Agents and services architecture
-- Web-based interface
-
-**Repository:**  
-[View on GitHub →](https://github.com/Giteshkumar23/Manufacturing-Agent)
+- React.js
+- Vite
+- JavaScript (ES6)
+- HTML5
+- CSS3
 
 ---
 
-## 02 · Ask My Docs — RAG Application
+## 🧠 Technical Skills
 
-A document question-answering application built around **Retrieval-Augmented Generation**, allowing users to ask questions about their uploaded documents.
+### Programming Languages
 
-**Built with**
+- Python
+- Java
+- SQL
 
-`Python` `RAG` `Docker` `Vector Search`
+### AI & Data
 
-**Highlights**
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- Data Analysis
+- Machine Learning
 
-- Document upload
-- Document processing
-- Retrieval pipeline
-- Context-aware responses
-- Vector search
-- Docker-based deployment
+### Frameworks & Libraries
 
-**Repository:**  
-Coming soon
+- Flask
+- Streamlit
+- Pandas
+- Plotly
 
----
+### Databases
 
-## 03 · AI Resume Analyzer
+- PostgreSQL
+- SQLite
 
-An AI-powered resume analysis application that provides ATS-oriented scoring, keyword analysis, and AI-generated improvement feedback.
+### Tools
 
-**Built with**
-
-`Python` `Flask` `SQLite` `Google Gemini`
-
-**Highlights**
-
-- Resume upload
-- ATS-oriented scoring
-- Keyword analysis
-- AI-generated feedback
-- Resume improvement suggestions
-- Flask backend
-
-**Repository:**  
-Coming soon
+- Git
+- GitHub
+- VS Code
+- Postman
+- Docker
 
 ---
 
-## 04 · Aim Trainer
+## 🚀 Featured Projects
+
+### 🤖 AI-Powered Manufacturing Agent
+
+An AI-powered manufacturing assistant built using Python, Flask, Groq, SQLAlchemy, and SQLite for intelligent manufacturing-related interactions.
+
+🔗 GitHub: https://github.com/Giteshkumar23/Manufacturing-Agent
+
+---
+
+### 📚 Ask My Docs — RAG Application
+
+A document question-answering application using **Retrieval-Augmented Generation (RAG)** to answer questions from user-uploaded documents.
+
+**Technologies:**
+
+- Python
+- RAG
+- Vector Search
+- Docker
+
+---
+
+### 📄 AI Resume Analyzer
+
+An AI-powered resume analysis application providing ATS-oriented scoring, keyword analysis, and AI-generated resume improvement feedback.
+
+**Technologies:**
+
+- Python
+- Flask
+- SQLite
+- Google Gemini
+
+---
+
+### 🎯 Aim Trainer
 
 A Python-based interactive aim training application focused on target interaction, reaction speed, scoring, and gameplay.
 
-**Built with**
+**Technology:**
 
-`Python`
-
-**Repository:**  
-Coming soon
+- Python
 
 ---
 
-## 05 · Snake Game
+### 🐍 Snake Game
 
-A Python-based Snake Game implementing movement, collision detection, scoring, and game logic while applying programming and OOP concepts.
+A Python-based Snake Game implementing player movement, collision detection, scoring, and game logic while applying programming and OOP concepts.
 
-**Built with**
+**Technology:**
 
-`Python`
-
-**Repository:**  
-Coming soon
+- Python
 
 ---
 
-# Learning & Development Journey
+## 📜 Certifications
 
-My technical journey began around **September 2023**, progressing from programming fundamentals to AI application development.
+- 🐍 **100 Days of Code: The Complete Python Pro Bootcamp** — Udemy
+- 🤖 **Artificial Intelligence & Machine Learning** — KodeZen Technologies
+- 🌐 **Web Development using HTML, JavaScript & CSS** — CSVTU — A+ Grade
+- 🤖 **Getting Started with Artificial Intelligence** — IBM SkillsBuild
+- 📄 **Create a Great Professional Resume** — IBM
+
+---
+
+## 🎓 Education
+
+**Shri Shankaracharya Technical Campus, Bhilai**
+
+Bachelor of Technology — Information Technology
+
+**Expected Graduation:** 2027
+
+**CGPA:** 8.05 / 10
+
+---
+
+## 🧭 Learning Journey
+
+My technical journey started around **September 2023** and has progressed through programming, web development, Python, AI/ML, Generative AI, RAG, and practical project development.
+
+### 2023
+- Started my technical journey
+- Programming and IT fundamentals
+
+### 2024
+- Python and programming practice
+- Data Structures & Algorithms
+- Academic development
+
+### 2025
+- Web Development
+- HTML
+- CSS
+- JavaScript
+- Practical development
+
+### 2026
+- Python specialization
+- Artificial Intelligence & Machine Learning
+- Generative AI
+- RAG applications
+- AI application development
+- Portfolio projects
+
+### 2027
+- Expected B.Tech graduation
+
+---
+
+## 📂 Project Structure
 
 ```text
-September 2023
-      │
-      ▼
-Programming & IT Fundamentals
-      │
-      ▼
-Python & Problem Solving
-      │
-      ▼
-Data Structures & Algorithms
-      │
-      ▼
-Web Development
-HTML · CSS · JavaScript
-      │
-      ▼
-Python Development
-      │
-      ▼
-AI & Machine Learning
-      │
-      ▼
-Generative AI & RAG
-      │
-      ▼
-AI Application Development
-      │
-      ▼
-Data Scientist & AI Developer
+gitesh-portfolio/
+│
+├── public/
+│   ├── images/
+│   │   └── gitesh-profile.jpg
+│   └── Gitesh_Kumar_Patel_Resume.pdf
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── About.jsx
+│   │   ├── Certifications.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Journey.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Resume.jsx
+│   │   └── Skills.jsx
+│   │
+│   ├── data/
+│   │   └── portfolio.js
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── vercel.json
